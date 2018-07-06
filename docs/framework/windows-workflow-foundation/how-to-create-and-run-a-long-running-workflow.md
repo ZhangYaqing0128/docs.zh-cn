@@ -49,7 +49,7 @@ ms.lasthandoff: 05/04/2018
     > [!NOTE]
     >  确保你有**Create Database**本地服务器上创建数据库前的权限。  
   
-2.  选择**打开**，**文件**从**文件**菜单。 浏览到以下文件夹：`C:\Windows\Microsoft.NET\Framework\4.0.30319\sql\en`  
+2.  选择**打开**，**文件**从**文件**菜单。 浏览到以下文件夹：`C:\Windows\Microsoft.NET\Framework\v4.0.30319\sql\en`  
   
      选择以下两个文件，然后单击**打开**。  
   
